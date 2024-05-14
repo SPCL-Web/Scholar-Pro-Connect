@@ -1,0 +1,422 @@
+.contact_1-3 {
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 60px;
+  background: #f5f5f5;
+  width: 1415px;
+  height: 1012px;
+}
+.rectangle-5_1-4 {
+  top: 189px;
+  left: 811px;
+  position: absolute;
+  display: flex;
+  display: flex;
+}
+
+.rectangle-6_1-5 {
+  top: 195px;
+  left: 26px;
+  position: absolute;
+  display: flex;
+  display: flex;
+}
+
+.rectangle-11_1-6 {
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  display: flex;
+  display: flex;
+}
+
+.rectangle-12_1-20 {
+  top: -1px;
+  left: 3px;
+  position: absolute;
+  display: flex;
+  display: flex;
+}
+
+.rectangle-14_1-56 {
+  top: 4px;
+  left: 1415px;
+  position: absolute;
+  display: flex;
+  display: flex;
+}
+
+.rectangle-16_1-83 {
+  top: 1013px;
+  left: 0px;
+  position: absolute;
+  display: flex;
+  display: flex;
+}
+
+.text-1-8 {
+  top: 60px;
+  left: 463px;
+  position: absolute;
+  display: flex;
+  color: #434343;
+  font-size: 35px;
+  font-family: Mukta Mahee;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 600;
+  text-align: center;
+  width: 935px;
+  height: 89px;
+}
+
+.text-scholar---pro--connect-llp_1-9 {
+  top: 50px;
+  left: 54px;
+  position: absolute;
+  display: flex;
+  font-size: 45px;
+  font-family: Montserrat;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 600;
+  text-align: left;
+  width: 374px;
+  height: 84px;
+}
+
+.frame-9_1-10 {
+  top: 248px;
+  left: 542px;
+  position: absolute;
+  display: flex;
+  box-sizing: border-box;
+  border-radius: 18px;
+  border-color: #8a8686;
+  border-style: solid;
+  border-width: 1px;
+  width: 819px;
+  height: 72px;
+  box-shadow: 0px 4px 4px 0px #0000003f;
+}
+.frame-2_1-11 {
+  padding: 10px;
+  top: -23px;
+  left: 29px;
+  position: absolute;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+  background: #f5f5f5;
+  width: 103px;
+  
+}
+.text-name_1-12 {
+  color: #000000;
+  font-size: 20px;
+  font-family: Montserrat;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: center;
+  width: 202px;
+  height: 27px;
+}
+
+.frame-11_19-4 {
+  padding: 10px;
+  top: 14px;
+  left: 9px;
+  position: absolute;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+  border-radius: 18px;
+  width: 414px;
+}
+.text-xyz_19-3 {
+  color: #dad9d9;
+  font-size: 22px;
+  font-family: Montserrat;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: left;
+  text-wrap: wrap;
+  width: 239px;
+}
+
+.frame-4_1-13 {
+  top: 359px;
+  left: 542px;
+  position: absolute;
+  display: flex;
+  box-sizing: border-box;
+  border-radius: 18px;
+  border-color: #8a8686;
+  border-style: solid;
+  border-width: 1px;
+  width: 819px;
+  height: 72px;
+  box-shadow: 0px 4px 4px 0px #0000003f;
+}
+.frame-2_1-14 {
+  padding: 10px;
+  top: -23px;
+  left: 29px;
+  position: absolute;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+  background: #f5f5f5;
+  box-shadow: 0px 4px 4px 0px #0000003f;
+}
+.text-phone-number_1-15 {
+  color: #000000;
+  font-size: 22px;
+  font-family: Montserrat;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: left;
+  text-wrap: nowrap;
+}
+
+.frame-12_19-5 {
+  padding: 10px;
+  top: 13px;
+  left: 12px;
+  position: absolute;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+  border-radius: 18px;
+  width: 414px;
+}
+.text-xyz_19-6 {
+  color: #dad9d9;
+  font-size: 22px;
+  font-family: Montserrat;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: left;
+  text-wrap: wrap;
+  width: 239px;
+}
+
+.frame-10_1-59 {
+  top: 470px;
+  left: 542px;
+  position: absolute;
+  display: flex;
+  box-sizing: border-box;
+  border-radius: 18px;
+  border-color: #8a8686;
+  border-style: solid;
+  border-width: 1px;
+  width: 819px;
+  height: 72px;
+  box-shadow: 0px 4px 4px 0px #0000003f;
+}
+.frame-2_1-60 {
+  padding: 10px;
+  top: -23px;
+  left: 29px;
+  position: absolute;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+  background: #f5f5f5;
+  box-shadow: 0px 4px 4px 0px #0000003f;
+}
+.text-e-mail_1-61 {
+  color: #000000;
+  font-size: 22px;
+  font-family: Montserrat;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: left;
+  text-wrap: nowrap;
+}
+
+.frame-13_19-7 {
+  padding: 10px;
+  top: 13px;
+  left: 29px;
+  position: absolute;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+  border-radius: 18px;
+  width: 414px;
+}
+.text-xyz_19-8 {
+  color: #dad9d9;
+  font-size: 22px;
+  font-family: Montserrat;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: left;
+  text-wrap: wrap;
+  width: 239px;
+}
+
+.frame-8_1-18 {
+  top: 853px;
+  left: 821px;
+  position: absolute;
+  display: flex;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 18px;
+  border-color: #7f7b7b;
+  border-style: solid;
+  border-width: 1px;
+  background: #cae5f9;
+  width: 220px;
+  height: 61px;
+  box-shadow: 0px 4px 4px 0px #0000003f;
+}
+.frame-15_19-10 {
+  padding: 10px;
+  top: 4px;
+  left: 43px;
+  position: absolute;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+}
+.text-submit_1-65 {
+  color: #435b6d;
+  font-size: 30px;
+  font-family: Montserrat;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 600;
+  text-align: center;
+  text-wrap: nowrap;
+}
+
+.ellipse-1_3-2 {
+  top: 298px;
+  left: 35px;
+  position: absolute;
+  display: flex;
+  display: flex;
+}
+
+.rectangle-15_1-67 {
+  top: 581px;
+  left: 542px;
+  position: absolute;
+  display: flex;
+  display: flex;
+}
+
+.frame-14_19-9 {
+  padding: 10px;
+  top: 599px;
+  left: 551px;
+  position: absolute;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+  width: 802px;
+}
+.text-1-101 {
+  color: #6f6b6b;
+  font-size: 20px;
+  font-family: Montserrat;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: left;
+  text-wrap: nowrap;
+}
+
+/* Existing CSS styles remain unchanged */
+
+/* Modify CSS for clickable input fields */
+.frame-2_1-11,
+.frame-2_1-14,
+.frame-2_1-60 {
+    cursor: text; /* Change cursor to text cursor when hovering over input fields */
+}
+
+/* Style the input fields */
+.text-xyz_19-3,
+.text-xyz_19-6,
+.text-xyz_19-8 {
+    border: none; /* Remove default input border */
+    outline: none; /* Remove default input focus outline */
+    width: 100%; /* Make input fields fill their parent container */
+    height: 100%; /* Make input fields fill their parent container */
+    font-size: 20px; /* Adjust font size */
+    padding: 0 10px; /* Add padding for better appearance */
+    background: transparent; /* Make input background transparent */
+}
+
+/* Style placeholder text */
+.text-xyz_19-3::placeholder,
+.text-xyz_19-6::placeholder,
+.text-xyz_19-8::placeholder {
+    color: #dad9d9; /* Set placeholder text color */
+}
+
+.frame-14_19-9 {
+  cursor: text; /* Change cursor to text cursor when hovering over the input field */
+}
+
+/* Style the input field */
+.text-1-101 {
+  border: none; /* Remove default input border */
+  outline: none; /* Remove default input focus outline */
+  width: 100%; /* Make input field fill its parent container */
+  font-size: 20px; /* Adjust font size */
+  padding: 5px 10px; /* Add padding for better appearance */
+  background: transparent; /* Make input background transparent */
+  color: #6f6b6b; /* Set input text color */
+}
