@@ -1,0 +1,1026 @@
+.main-home_39-14 {
+    position: relative;
+    box-sizing: border-box;
+    border-radius: 60px;
+    background: #ffffff;
+    width: 1415px;
+    height: 1012px;
+    display: flex;
+    justify-content: center;
+    background-color:#EDF8FF;
+  }
+
+
+
+
+  
+  
+  .pexels-photo-by-pixabay_15-30 {
+    top: 195px;
+    left: 26px;
+    position: absolute;
+    display: flex;
+    display: flex;
+    width: 1300px;
+    height:550px;
+    background-image: url('main..jpeg');
+    border-radius: 30px;
+    /* Adjust the value to change the roundness */
+    overflow: hidden;
+  }
+  
+  .frame-9_193-13 {
+    top: 37px;
+    left: 59px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 1302px;
+    height: 129px;
+  }
+  .rectangle-4_5-10 {
+    top: 49px;
+    left: 1178px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-about-us_5-5 {
+    top: 56px;
+    left: 670px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 17px;
+    font-family: Inter;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    width: 82px;
+    height: 29px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+  }
+  
+  .text-contact-us_239-110 {
+    top: 56px;
+    left: 833px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 17px;
+    font-family: Inter;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    width: 109px;
+    height: 29px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    font-size: 20px;
+  }
+  
+  .text-scholar-pro-connect-llp_3-4 {
+    top: 37px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    font-size: 30px;
+    font-family: Inter;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 362px;
+    height: 36px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+  }
+  
+  .text-home_5-4 {
+    top: 56px;
+    left: 508px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 17px;
+    font-family: Inter;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    width: 61px;
+    height: 29px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    font-size: large;
+  }
+  
+  .rectangle-3_5-8 {
+    top: 49px;
+    left: 1033px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-login_5-18 {
+    top: 53px;
+    left: 1062px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 17px;
+    font-family: Inter;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 47px;
+    height: 21px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    font-size: large;
+  }
+  
+  .text-sign-up_47-11 {
+    top: 53px;
+    left: 1201px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 17px;
+    font-family: Inter;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 63px;
+    height: 21px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+  }
+  
+  .personalized-learning {
+    top: 85px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    color: #3238c7;
+    font-size: 15px;
+    font-family: Outfit;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 300;
+    text-align: left;
+    text-wrap: wrap;
+    width: 456px;
+    height: 19px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+  }
+  
+  .educational-journey {
+    top: 304px;
+    left: 51px;
+    position: absolute;
+    display: flex;
+    color: #080808d8;
+    letter-spacing: 0%;
+    text-decoration: none;
+    text-align: left;
+    text-wrap: wrap;
+    width: 661px;
+    height: 219px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    font-size:45px;
+  }
+  
+  .rectangle-17_219-120 {
+    top: 598px;
+    left: 74px;
+    position: absolute;
+    display: flex;
+    display: flex;
+    width: 100%;
+  }
+  
+  .text-get-started_239-109 {
+    
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    letter-spacing: 0%;
+    text-decoration: none;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 180px;
+    height: 65px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    background-color: #000000;
+    border-radius: 30px;
+    top: 600px;
+    left: 109px;
+    color: #ffffff;
+    font-size: 30px;
+  
+  }
+  .buty{
+    text-align: center;
+  }
+  /* 2nd page */
+  .home-page-2_212-57 {
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 60px;
+    background:#D9D9D9;
+    width: 1415px;
+    height: 1035px;
+  
+  }
+  .rectangle-10_212-100 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .short-expert-admission-support {
+    top: 44px;
+    left: 48px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    letter-spacing: 0%;
+    text-decoration: none;
+    text-align: left;
+    text-wrap: wrap;
+    width: 1033px;
+    height: 180px;
+    font-size: 35px;
+  }
+  
+  .rectangle-14_212-101 {
+    top: 324px;
+    left: 38px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .rectangle-15_212-102 {
+    top: 324px;
+    left: 502px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .rectangle-16_212-103 {
+    top: 324px;
+    left: 962px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .pre-admissions-text {
+    top: 713px;
+    left: 37px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    letter-spacing: 0%;
+    text-decoration: none;
+    text-align: left;
+    text-wrap: wrap;
+    width: 432px;
+    height: 321px;
+    font-size:30px;
+  }
+  
+  .college-support-text {
+    top: 724px;
+    left: 499px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    letter-spacing: 0%;
+    text-decoration: none;
+    text-align: left;
+    text-wrap: wrap;
+    width: 416px;
+    height: 223px;
+    font-size:30px;
+  }
+  
+  .post-college-text {
+    top: 720px;
+    left: 961px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    letter-spacing: 0%;
+    text-decoration: none;
+    text-align: left;
+    text-wrap: wrap;
+    width: 429px;
+    height: 231px;
+    font-size:30px;
+  }
+  
+  /* 3rd page*/
+  .about_211-16 {
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 60px;
+    background:#D9D9D9;
+    width: 1440px;
+    height: 1026px;
+  }
+  .rectangle-2_211-17 {
+    top: 195px;
+    left: -63px;
+    position: absolute;
+    display: flex;
+    display: flex;
+    border-radius: 50%; /* Make the element circular */
+    width: 450px; /* Set width of the circular element */
+    height: 450px;
+  }
+  
+  .rectangle-5_211-18 {
+    top: 350px;
+    right: 811px;
+    position: absolute;
+    display: flex;
+    display: flex;
+    border-radius: 50%; /* Make the element circular */
+    width: 500px; /* Set width of the circular element */
+    height: 500px;
+  }
+  
+  .rectangle-8_211-21 {
+    top: 15px;
+    left: 1135px;
+    position: absolute;
+    display: flex;
+    display: flex;
+    border-radius: 50%;
+      width: 450px;
+      height: 450px;
+      
+  
+    
+  }
+  
+  .frame-5_193-7 {
+    top: 245px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 1430px;
+    height: 418px;
+  }
+  .pexels-photo-by-andrea-piacquadio_15-18 {
+    top:450px;
+    left: 1135px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  
+  }
+  
+  .text-our-beliefs_15-23 {
+    top: 68px;
+    left: 1071px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 50px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 290px;
+    height: 61px;
+  }
+  
+  .special-journey-support {
+    top: 161px;
+    left: 559px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    text-align: left;
+    text-wrap: wrap;
+    width: 871px;
+    height: 148px;
+  }
+  
+  
+  .frame-7_193-11 {
+    top: 17px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 1440px;
+    height: 278px;
+  }
+  .academic-journey-support {
+    top: 87px;
+    left: 38px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    text-align: left;
+    text-wrap: wrap;
+    width: 1137px;
+    height: 185px;
+  }
+  
+  .frame-4_193-6 {
+    top: 548px;
+    left: 827px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 588px;
+    height: 478px;
+  }
+  .ellipse-3_16-5 {
+    top: 46px;
+    left: 100px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .rectangle-6_211-19 {
+    top: 201px;
+    left: 26px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .ellipse-5_211-23 {
+    top: 751px;
+    left: 605px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .rectangle-7_211-20 {
+    top: 208px;
+    left: 63px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .ellipse-4_211-22 {
+    top: 316px;
+    left: 89px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .ellipse-6_211-24 {
+    top: 13px;
+    left: 1138px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text---about-us_211-25 {
+    top: -29px;
+    left: -452px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 50px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    width: 940px;
+    height: 103px;
+  }
+  
+  .creative-expertise {
+    top: 703px;
+    left: 50px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    letter-spacing: 0%;
+    text-decoration: none;
+    text-align: left;
+    text-wrap: wrap;
+    width: 807px;
+    height: 266px;
+    font-size: 30px;
+  }
+  
+  /* 4th page */
+  .contact-us_16-14 {
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 60px;
+    background: #eef9ff;
+    width: 1440px;
+    height: 1026px;
+  }
+  .rectangle-8_16-20 {
+    top: -29px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .rectangle-9_16-32 {
+    top: -22px;
+    left: -4px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-connect-with-us-today_16-35 {
+    top: 74px;
+    left: 423px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 65px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    width: 1050px;
+    height: 75px;
+  }
+  
+  .testimonial {
+    top: 178px;
+    left: 136px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 30px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 300;
+    text-align: right;
+    text-wrap: wrap;
+    width: 1217px;
+    height: 158px;
+  }
+  
+  .rectangle-11_16-39 {
+    top: 400px;
+    left: 965px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .ellipse-9_16-92 {
+    top: 560px;
+    left: 224px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .group-1_235-3 {
+    top: 336px;
+    left: -64px;
+    position: absolute;
+    display: flex;
+    width: 774px;
+    height: 741px;
+  }
+  .frame-1_193-2 {
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 774px;
+    height: 741px;
+  }
+  .ellipse-10_47-12 {
+    top: 568px;
+    left: 806px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .frame-12_193-16 {
+    top: -24px;
+    left: 26px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 642px;
+    height: 395px;
+  }
+  .rectangle-10_16-36 {
+    top: 2px;
+    left: 198px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .frame-13_193-17 {
+    top: 34px;
+    left: 164px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 529px;
+    height: 474px;
+  }
+  .text-schedule-consultation_16-40 {
+    top: 256px;
+    left: 154px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: justified;
+    text-wrap: wrap;
+    width: 324px;
+    height: 58px;
+  }
+  
+  .ellipse-7_16-86 {
+    top: 38px;
+    left: 103px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .frame-2_193-3 {
+    top: 866px;
+    left: 874px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 376px;
+    height: 94px;
+  }
+  .youtube_16-105 {
+    top: 23px;
+    left: 30px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .linkedin_16-111 {
+    top: 100px;
+    left: 100px;
+    position: absolute;
+    display: flex;
+    display: flex;
+    color:#3238c7;
+    height:60px;
+    width:60px;
+  }
+  
+  .group_212-114 {
+    top: 100px;
+    left: 125px;
+    position: absolute;
+    display: flex;
+    display: flex;
+    height:60px;
+    width:60px;
+  }
+  .vector_212-115 {
+    display: flex;
+  }
+  
+  .vector_212-116 {
+    display: flex;
+  }
+  
+  .vector_212-117 {
+    display: flex;
+  }
+  
+  .frame-3_193-4 {
+    top: 400px;
+    left: 973px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-color: #9196ff;
+    border-style: solid;
+    border-width: 1px;
+    width: 324px;
+    height: 72px;
+    background-color: #9196ff;;
+    border-radius: 30px;
+    text-align: center;
+  }
+  .text-schedule-consultation_47-9 {
+    top: 17px;
+    left: 20px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+  }
+  .contact-us_16-14 {
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 60px;
+    background: #eef9ff;
+    width: 1440px;
+    height: 1026px;
+  }
+  .gmail_276-6 {
+    display: flex;
+    top: 855px;
+    left: 650px;
+    position: absolute;
+    display: flex;
+    display: flex;
+    height: 60px;
+    width: 60px;
+  }
+  .rectangle-8_16-20 {
+    top: -29px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .rectangle-9_16-32 {
+    top: -22px;
+    left: -4px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-connect-with-us-today_16-35 {
+    top: 74px;
+    left: 423px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 65px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    width: 1050px;
+    height: 75px;
+  }
+  
+  .text-16-38 {
+    top: 178px;
+    left: 136px;
+    position: absolute;
+    display: flex;
+    color: #000000;
+    font-size: 30px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 300;
+    text-align: right;
+    text-wrap: wrap;
+    width: 1217px;
+    height: 158px;
+  }
+  
+  .rectangle-11_16-39 {
+    top: 400px;
+    left: 965px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .ellipse-9_16-92 {
+    top: 560px;
+    left: 224px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .group-1_235-3 {
+    top: 336px;
+    left: -64px;
+    position: absolute;
+    display: flex;
+    width: 774px;
+    height: 741px;
+  }
+  .instagram_276-5 {
+    display: flex;
+    top: 855px;
+    left: 650px;
+  }
+  .frame-1_193-2 {
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 774px;
+    height: 741px;
+  }
+  .ellipse-10_47-12 {
+    top: 568px;
+    left: 806px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .frame-12_193-16 {
+    top: -24px;
+    left: 26px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 642px;
+    height: 395px;
+  }
+  .rectangle-10_16-36 {
+    top: 2px;
+    left: 198px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .frame-13_193-17 {
+    top: 34px;
+    left: 164px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 529px;
+    height: 474px;
+  }
+  .text-schedule-consultation_16-40 {
+    top: 256px;
+    left: 154px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: justified;
+    text-wrap: wrap;
+    width: 324px;
+    height: 58px;
+  }
+  
+  .ellipse-7_16-86 {
+    top: 38px;
+    left: 103px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .frame-2_193-3 {
+    top: 866px;
+    left: 874px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 376px;
+    height: 94px;
+  }
+  .linkedin_16-111 {
+    top: 23px;
+    left: 220px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .group_212-114 {
+    top:885px;
+    left: 850px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  .vector_212-115 {
+    display: flex;
+  }
+  
+  .vector_212-116 {
+    display: flex;
+  }
+  
+  .vector_212-117 {
+    display: flex;
+  }
+  
+  .x----icon--envelope-closed-_255-4 {
+    top: 30px;
+    left: 314px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  .vector_255-3 {
+    display: flex;
+  }
+  
+  .frame-3_193-4 {
+    top: 400px;
+    left: 973px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    width: 324px;
+    height: 72px;
+  }
+  .text-schedule-consultation_47-9 {
+    top: 17px;
+    left: 12px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Montserrat;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    width: 300px;
+    height: 38px;
+  }

@@ -1,0 +1,168 @@
+<div class="row">
+    <div class="col-lg-6">
+        <!-- <h4>Contact Us Form</h4> -->
+<!-- 
+        <form [formGroup]="contactForm" (submit)="onSubmit()">
+            <div class="mb-3">
+                <label for="name" class="form-label">name</label>
+                <input type="text" class="form-control" id="name" placeholder="Your Name" formControlName="name">
+                @if(contactForm.get('name')?.hasError('required') && contactForm.get('name')?.touched){  <div class="text-danger fw-bold">Name is Required</div>}
+              
+            </div>
+
+
+            <div class="mb-3">
+                <label for="email" class="form-label">email</label>
+                <input type="text" class="form-control" id="email" placeholder="email"formControlName="email">
+                @if(contactForm.get('email')?.hasError('required') && contactForm.get('email')?.touched){  <div class="text-danger fw-bold">Email is Required</div>}
+              
+            </div>
+            <div class="mb-3">
+                <label for="phone" class="form-label">Phone No</label>
+                <input type="text" class="form-control" id="phone" placeholder="phone"formControlName="phone">
+                @if(contactForm.get('phone')?.hasError('required') && contactForm.get('phone')?.touched){  <div class="text-danger fw-bold">Phone No is Required</div>}
+              
+            </div>
+
+
+            <div class="mb-3">
+                <label for="description" class="form-label">Any Query ?</label>
+                <textarea class="form-control" id="description" rows="3" formControlName="description"></textarea>
+
+
+                @if(contactForm.get('description')?.hasError('required') && contactForm.get('description')?.touched){  <div class="text-danger fw-bold">description is Required</div>}
+            </div>
+
+            <button type="submit" class="btn btn-success">
+                Submit
+
+            </button>
+        </form> -->
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<form action=""  [formGroup]="contactForm" (submit)="onSubmit()">
+
+    <div class="contact_1-3">
+        <div class="rectangle-5_1-4">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAQSURBVHgBAQUA+v8AyuX5/wjNA6j4UG+yAAAAAElFTkSuQmCC" />
+        </div>
+        <div class="rectangle-6_1-5">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAQSURBVHgBAQUA+v8AyuX5/wjNA6j4UG+yAAAAAElFTkSuQmCC" />
+        </div>
+        <div class="rectangle-11_1-6">
+            <img src="../assets/Images/lightblue.jpeg" alt="" width="483" height="1012" />
+        </div>
+        <div class="rectangle-12_1-20" style="opacity: 0.5;">
+            <img src="../assets/Images/lightblue.jpeg" alt="" width="486" height="1014" />
+        </div>
+        
+        <div class="rectangle-14_1-56">
+            <img src="../assets/Images/lightblue.jpeg" alt="" width="1416" height="180" />
+        </div>
+        <div class="rectangle-16_1-83">
+            <img src="../assets/Images/lightblue.jpeg" alt="" width="1414" height="73" />
+        </div>
+        <span class="text-1-8">Your Questions, Our Solutions: Contact Us Today for Personalized Assistance!</span>
+        <span class="text-scholar---pro--connect-llp_1-9">Scholar - Pro Connect LLP</span>
+        <div class="frame-9_1-10">
+            <div class="frame-2_1-11">
+                <span class="text-name_1-12">Name </span>
+            </div>
+            <div class="frame-11_19-4">
+                <!-- <input type="text" id="name" placeholder="Enter your name" class="text-xyz_19-3" /> -->
+
+                <input type="text" class="form-control text-xyz_19-3" id="name" placeholder="Your Name" formControlName="name">
+                @if(contactForm.get('name')?.hasError('required') && contactForm.get('name')?.touched){  <div class="text-danger fw-bold">Name is Required</div>}
+            </div>
+        </div>
+        <div class="frame-4_1-13">
+            <div class="frame-2_1-14">
+                <span class="text-phone-number_1-15">Phone Number</span>
+            </div>
+            <div class="frame-12_19-5">
+                <!-- <input type="tel" id="phone" placeholder="Enter your phone number" class="text-xyz_19-6" /> -->
+
+                <input type="text" class="form-control" placeholder="phone" formControlName="phone">
+                @if(contactForm.get('phone')?.hasError('required') && contactForm.get('phone')?.touched){  <div class="text-danger fw-bold">Phone No is Required</div>}
+            </div>
+        </div>
+        <div class="frame-10_1-59">
+            <div class="frame-2_1-60">
+                <span class="text-e-mail_1-61">E-mail</span>
+            </div>
+            <div class="frame-13_19-7">
+                <!-- <input type="email" id="email" placeholder="Enter your email" class="text-xyz_19-8" /> -->
+                <input type="text" class="form-control text-xyz_19-8" id="email" placeholder="email"formControlName="email">
+                @if(contactForm.get('email')?.hasError('required') && contactForm.get('email')?.touched){  <div class="text-danger fw-bold">Email is Required</div>}
+            </div>
+
+
+
+
+          
+          
+                <!-- <label for="description" class="form-label">Any Query ?</label> -->
+               <div class="query ">
+                <p>Any Query    </p>
+                <textarea class="form-control" id="description" rows="20" cols="100" formControlName="description"></textarea>
+
+
+                @if(contactForm.get('description')?.hasError('required') && contactForm.get('description')?.touched){  <div class="text-danger fw-bold">description is Required</div>}
+           
+               </div>   
+
+
+
+
+        </div>
+        <div class="frame-8_1-18">
+            <div class="frame-15_19-10">
+                <!-- <button class="text-submit_1-65" onclick="submitForm()">Submit</button> -->
+                <button type="submit" class="text-submit_1-65">
+                    Submit
+    
+                </button>
+            </div>
+        </div>
+        <div class="ellipse-1_3-2">
+            <img src="../assets/Images/Never-stop.jpg" alt="" width="350" height="350" style="border-radius: 55%;" />
+        </div>
+<!--         
+        <div class="frame-14_19-9">
+            <input type="text" id="query" placeholder="Type your query here" class="text-1-101" />
+        </div> -->
+    </div>
+    
+    <script>
+        // function submitForm() {
+        //     // Your form submission logic goes here
+        //     var name = document.getElementById("name").value;
+        //     var phone = document.getElementById("phone").value;
+        //     var email = document.getElementById("email").value;
+        //     var query = document.getElementById("query").value;
+        //     console.log("Name:", name);
+        //     console.log("Phone:", phone);
+        //     console.log("Email:", email);
+        //     console.log("Query:", query);
+        // }
+    </script>
+    
+</form>
+
+
+
+
+
+
+
